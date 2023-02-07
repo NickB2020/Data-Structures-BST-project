@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1634516654 source:c:\users\klaus\desktop\ds fall\3-nbb12\main.cpp
+	"BinarySearchTreeClass.h"
+	<iostream>
+	<fstream>
+	<fstream>
+	<limits>
+
+1634515059 c:\users\klaus\desktop\ds fall\3-nbb12\binarysearchtreeclass.h
+	<cstddef>
+
